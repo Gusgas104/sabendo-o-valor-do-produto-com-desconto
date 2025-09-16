@@ -20,5 +20,4 @@ Foi criado para praticar lógica de programação e uso do GitHub.
 - [x] Solicita o valor do produto.  
 - [x] Solicita a porcentagem de desconto.  
 - [x] Calcula e exibe o preço final.  
-- [ ] Adicionar opção para calcular com diferentes formas de pagamento.  
-- [ ] Criar interface mais amigável.
+
